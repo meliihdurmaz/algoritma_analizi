@@ -15,7 +15,7 @@ internal class Program
             }
 
            
-            if (arr[middle] > target)
+            if (arr[middle] > target) 
             {
                 right = middle - 1;
             }
